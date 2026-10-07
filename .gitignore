@@ -1,0 +1,28 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ambiente virtual
+.venv/
+
+# Dataset
+dataset/
+
+# Modelos treinados / pesos
+models/
+
+# Resultados de treino e predição
+runs/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema/IDE
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
